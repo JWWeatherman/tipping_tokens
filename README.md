@@ -1,3 +1,12 @@
+# Update
+This concept was an attepmt to show how tokens could be used to fund open source projects, the stated goal of ICOs, without room for scamming investors out of cash. It was greatly inspired by interviews I did with contributors to Bisq network, a decentralized exchange, that I still believe to be a legitimate project attempting to solve real problems. 
+
+It was also the most conservative approach to regulatory compliance I had seen because there was no fund raising at all, no bank account, no company and no "assets." One of the resources used was a spreadsheet published by Coinbase that allowed you to rate your token for regulatory risk and this approach had a risk rating of zero.
+
+However the SEC has issued new guidance that may mean that everything that involved fund raising is, in fact, a security. It is possible that the "tipping token" approach and the approach used by Bisq is still ok, but it is certianly closer to the edge than it was believed to be at the time I published this concept so I would no longer recommend experimenting with it without first spending significant money with an attorney.
+
+Since this was an attempt to be a lightweight approach that removed the narrative from ICOs and was also an very conservative way to fund open source work - and it is now ineffective for both of those goals - it is now pointless.
+
 # Overview
 Using digital tokens to represent 
 track contributions
