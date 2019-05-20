@@ -5,7 +5,7 @@ It was also the most conservative approach to regulatory compliance I had seen b
 
 However the SEC has issued new guidance that may mean that everything that involved fund raising is, in fact, a security. It is possible that the "tipping token" approach and the approach used by Bisq is still ok, but it is certianly closer to the edge than it was believed to be at the time I published this concept so I would no longer recommend experimenting with it without first spending significant money with an attorney.
 
-Since this was an attempt to be a lightweight approach that removed the narrative from ICOs and was also an very conservative way to fund open source work - and it is now ineffective for both of those goals - it is now pointless.
+Since this was an attempt to be a lightweight approach that removed the narrative from ICOs and was also an very conservative way to reward open source contributors - and it is now ineffective for both of those goals - it is now pointless.
 
 # Overview
 Using digital tokens to represent 
